@@ -1,0 +1,32 @@
+Date,Event,Type,Impact,Sentiment_manual,Comment
+2006-01-01,Expansión crédito e inmobiliario en España,Económico,Positivo,0.6,Beneficia márgenes y volumen hipotecario (BBVA/SAN).
+2006-06-08,BCE sube tipos a 2.75%,Monetario,Leve negativo,-0.2,Inicio de ciclo de subidas en la eurozona.
+2006-12-01,Santander integra Abbey y refuerza UK,Corporativo,Positivo,0.5,Synergias y escala internacional.
+2007-02-08,HSBC alerta pérdidas subprime,Financiero,Negativo,-0.5,Primera señal fuerte de riesgo crédito global.
+2007-06-22,Caen fondos Bear Stearns (CDO),Financiero,Negativo,-0.6,Aumenta desconfianza interbancaria.
+2007-08-09,BNP Paribas congela fondos,Financiero,Muy negativo,-0.9,Se congela mercado de papel comercial; tensión en EURIBOR.
+2007-09-14,Colas en Northern Rock (UK),Financiero,Muy negativo,-0.8,Primer bank run moderno en Europa.
+2007-12-12,Coordinación bancos centrales (líneas de liquidez),Monetario,Positivo,0.4,Alivia tensiones de financiación bancaria.
+2008-03-16,Rescate Bear Stearns por JPMorgan,Financiero,Negativo,-0.7,Señal de crisis sistémica.
+2008-07-14,Caída IndyMac (USA),Financiero,Negativo,-0.6,Escalada de quiebras bancarias en EE.UU.
+2008-09-07,Rescate Fannie Mae y Freddie Mac,Financiero,Negativo,-0.5,Intervención histórica en hipotecarias.
+2008-09-15,Quiebra Lehman Brothers,Financiero,Muy negativo,-1.0,Pánico global; congelación crédito.
+2008-09-29,Fallo plan rescate USA (voto inicial),Financiero,Muy negativo,-0.9,Volatilidad extrema en bolsas.
+2008-10-08,Recorte coordinado de tipos (BCE/Fed),Monetario,Positivo,0.5,Medida de emergencia para estabilizar.
+2008-10-13,Planes europeos de garantías y recapitalización,Político,Positivo,0.6,Confianza parcial en banca europea.
+2008-11-10,Santander anuncia ampliación de capital,Corporativo,Mixto,0.1,Fortalece capital pero diluye; reduce riesgo.
+2008-12-04,BCE recorta tipos a 2.5%,Monetario,Positivo,0.5,Alivio de costes de financiación.
+2009-01-02,BBVA resiliente; provisioning elevado,Corporativo,Leve positivo,0.2,Mantiene solvencia y margen.
+2009-01-30,Santander completa compra de Sovereign (EE.UU.),Corporativo,Positivo,0.6,Entrada sólida en banca retail USA.
+2009-03-09,Suelo de mercado post-crash,Financiero,Positivo,0.7,Inicio de rally de alivio.
+2009-05-07,Resultados 1T banca europea mejores de lo esperado,Financiero,Positivo,0.5,Mejora spreads y trading.
+2009-06-04,BCE a 1.0% e introduce medidas no convencionales,Monetario,Positivo,0.6,Apoya crédito y curva.
+2009-08-21,BBVA Compass adquiere activos de Guaranty Bank,Corporativo,Positivo,0.6,Expansión USA; compra con descuento.
+2009-11-01,Recuperación gradual del crédito en España,Económico,Leve positivo,0.3,Actividad aún débil pero mejora confianza.
+2010-04-23,Grecia pide rescate a la UE/FMI,Geopolítico,Muy negativo,-0.7,Inicio crisis de deuda soberana europea.
+2010-05-10,Paquete de rescate y SMP (BCE compra bonos),Monetario,Positivo,0.5,Reduce primas de riesgo a corto plazo.
+2010-06-30,Stress tests bancos europeos (1ª ronda),Financiero,Mixto,0.1,Transparencia parcial; dudas sobre metodología.
+2010-09-29,Huelgas generales en Europa por austeridad,Político,Negativo,-0.3,Riesgo macro bajista.
+2010-11-21,Rescate de Irlanda,Geopolítico,Negativo,-0.5,Presión sobre deuda periférica y banca europea.
+2010-12-15,BBVA/Santander sólidos en capital core tier 1,Corporativo,Positivo,0.4,Percepción de solvencia comparativa.
+

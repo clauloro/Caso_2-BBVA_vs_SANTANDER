@@ -1,0 +1,33 @@
+Date,Event,Type,Impact,Sentiment_manual,Comment
+2011-01-01,Rebrote de la crisis de deuda en la eurozona,Geopolítico,Negativo,-0.5,Suben primas de riesgo periféricas.
+2011-03-11,Terremoto y tsunami en Japón (Fukushima),Desastre,Negativo,-0.6,Riesgo global y aversión a riesgo.
+2011-04-06,Portugal solicita rescate a la UE/FMI,Financiero,Negativo,-0.6,Contagio a banca europea.
+2011-06-10,Subidas de tipos BCE (hasta 1.50%),Monetario,Negativo,-0.3,Endurece condiciones de financiación.
+2011-09-26,Intensificación de tensiones Grecia/Italia/España,Financiero,Muy negativo,-0.8,Primas de riesgo elevadas.
+2011-12-21,BCE lanza LTRO I (3 años de liquidez),Monetario,Positivo,0.6,Alivia estrés de financiación bancaria.
+2012-02-29,BCE lanza LTRO II,Monetario,Positivo,0.6,Refuerza sistema bancario europeo.
+2012-05-07,Problemas en cajas españolas; rescate de Bankia,Financiero,Muy negativo,-0.9,Desconfianza en banca española.
+2012-06-09,España solicita programa europeo de recapitalización bancaria,Político,Negativo,-0.7,Apoyo a bancos pero señal de debilidad.
+2012-07-26,Draghi “whatever it takes”,Monetario,Positivo,0.9,Anuncia compromiso para salvar el euro (OMT).
+2012-09-06,BCE detalla OMT (compras condicionales de bonos),Monetario,Positivo,0.7,Cae prima de riesgo; mejora valoraciones bancarias.
+2012-12-20,Progresos en unión bancaria (mecanismo único de supervisión),Regulatorio,Positivo,0.4,Visibilidad regulatoria para bancos.
+2013-03-25,Rescate de Chipre con bail-in de depositantes,Financiero,Negativo,-0.5,Aumenta percepción de riesgo en depósitos.
+2013-05-22,Señal de “tapering” de la Fed (Bernanke),Monetario,Negativo,-0.3,Volatilidad en mercados y divisas EM.
+2013-07-11,Mejora gradual macro en España (PIB cerca de suelo),Económico,Leve positivo,0.2,Comienza recuperación lenta.
+2013-10-31,Basilea III avanza (requisitos de capital),Regulatorio,Mixto,0.1,Más capital: solvencia mejor / ROE presionado.
+2014-01-23,Mejora de ratings/percepción de España,Económico,Positivo,0.4,Fin del “peor miedo”; facilita financiación bancaria.
+2014-03-27,Debilidad emergentes (Turquía/Brasil): volatilidad LATAM,Geopolítico,Negativo,-0.3,Exposición internacional de bancos españoles.
+2014-06-05,BCE introduce tipos negativos y TLTRO,Monetario,Positivo,0.6,Impulsa crédito y reduce coste de financiación.
+2014-07-21,BBVA gana subasta de Catalunya Banc,Corporativo,Positivo,0.7,Refuerza posición doméstica y sinergias.
+2014-09-18,Referéndum de Escocia (riesgo banco UK),Geopolítico,Leve negativo,-0.2,Riesgo puntual en activos en Reino Unido.
+2014-10-26,AQR + Stress Test EBA: banca española aprueba,Financiero,Positivo,0.6,Mejora confianza en solvencia de BBVA/SAN.
+2014-11-19,BBVA eleva participación en Garanti (TR),Corporativo,Mixto,0.2,Expansión internacional + riesgo Turquía.
+2014-12-15,Colapso del petróleo (Brent < 60$),Energético,Mixto,0.1,Menor coste/impulso consumo pero estrés en productoras.
+2015-01-15,SNB retira el suelo EUR/CHF (shock franco),Financiero,Negativo,-0.4,Volatilidad; pérdidas en brokers/bancos.
+2015-01-22,BCE anuncia QE soberano (60.000 M€/mes),Monetario,Positivo,0.8,Cae prima de riesgo; apoyo directo a bancos.
+2015-01-29,Santander anuncia ampliación de capital ~7.5bn€,Corporativo,Mixto,0.2,Refuerza CET1 pero diluye; señal prudente.
+2015-02-18,Mejora macrozona euro; euro débil favorece exportaciones,Económico,Positivo,0.3,Apoyo a resultados por comisiones y negocio exterior.
+2015-06-29,Cierre bancario en Grecia y corralito,Geopolítico,Muy negativo,-0.8,Temor a Grexit; volatilidad bancaria.
+2015-07-13,Acuerdo in extremis Grecia-UE,Geopolítico,Positivo,0.5,Reduce riesgo sistémico a corto plazo.
+2015-10-25,Stress test EBA 2015: sin sobresaltos en grandes bancos ES,Financiero,Positivo,0.4,Percepción de resiliencia.
+2015-12-03,BCE extiende QE y recalibra,Monetario,Positivo,0.4,Condiciones financieras holgadas para 2016.

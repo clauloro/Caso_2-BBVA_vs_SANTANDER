@@ -1,0 +1,36 @@
+Date,Event,Type,Impact,Sentiment_manual,Comment
+2000-01-01,Expansión del crédito en España,Económico,Positivo,0.5,Beneficios bancarios crecientes.
+2000-02-01,Fusión BBV + Argentaria (consolidación BBVA),Corporativo,Positivo,0.6,Fortaleza institucional.
+2000-03-10,Estalla burbuja punto com,Económico,Negativo,-0.9,Colapso tecnológico y bursátil.
+2000-05-01,Expansión BBVA en Latinoamérica,Corporativo,Positivo,0.4,Inicio de internacionalización.
+2000-09-28,Segunda Intifada,Geopolítico,Negativo,-0.4,Incertidumbre energética.
+2001-01-01,Santander lanza Openbank online,Corporativo,Positivo,0.3,Innovación digital.
+2001-09-11,Atentados del 11-S,Geopolítico,Muy negativo,-1.0,Caída IBEX y Eurostoxx.
+2001-10-08,Guerra Afganistán,Geopolítico,Negativo,-0.6,Incertidumbre global.
+2001-12-01,Política expansiva BCE,Económico,Positivo,0.4,Estímulo monetario.
+2002-01-01,Euro físico,Económico,Positivo,0.5,Confianza monetaria.
+2002-03-10,Caída del sector telecom,Económico,Negativo,-0.5,Impacto en IBEX.
+2002-05-01,Adquisición de Bancomer por BBVA,Corporativo,Positivo,0.6,Gran expansión LATAM.
+2002-07-21,Escándalos contables globales,Financiero,Muy negativo,-0.8,Crisis de confianza.
+2002-10-01,Crisis Argentina,Económico,Muy negativo,-0.9,Exposición bancaria española.
+2003-02-01,Desastre del Columbia,Social,Negativo,-0.3,Sentimiento global pesimista.
+2003-03-20,Guerra de Irak,Geopolítico,Negativo,-0.6,Volatilidad energética.
+2003-04-01,Recuperación IBEX,Económico,Positivo,0.4,Confianza recuperada.
+2003-05-01,Fin guerra Irak,Geopolítico,Positivo,0.5,Optimismo de mercado.
+2003-06-01,Santander planea compra Abbey National,Corporativo,Positivo,0.7,Expansión europea.
+2003-08-14,Apagón Norteamérica,Económico,Negativo,-0.4,Volatilidad.
+2003-12-13,Captura de Saddam Hussein,Geopolítico,Positivo,0.4,Estabilidad temporal.
+2004-01-15,Campañas hipotecarias Santander,Económico,Positivo,0.5,Inicio burbuja inmobiliaria.
+2004-03-11,Atentados Madrid,Geopolítico,Muy negativo,-0.9,Caída IBEX.
+2004-04-01,Recuperación tras elecciones,Económico,Positivo,0.3,Estabilidad política.
+2004-06-10,BBVA beneficios récord,Corporativo,Positivo,0.6,Solidez financiera.
+2004-07-20,Santander compra Abbey National,Corporativo,Muy positivo,0.9,Expansión estratégica.
+2004-09-01,Huracanes y petróleo caro,Energético,Negativo,-0.4,Presión inflacionaria.
+2004-12-26,Tsunami Índico,Desastre natural,Negativo,-0.7,Impacto humanitario.
+2005-01-01,Expansión UE-25,Económico,Positivo,0.7,Optimismo económico.
+2005-02-15,BBVA beneficios récord,Corporativo,Muy positivo,0.8,Fortaleza global.
+2005-03-16,Fórum Filatélico,Financiero,Negativo,-0.4,Crisis confianza.
+2005-07-07,Atentados Londres,Geopolítico,Negativo,-0.6,Caída momentánea.
+2005-09-01,Huracán Katrina,Desastre natural,Negativo,-0.5,Presión energética.
+2005-10-01,Boom inmobiliario español,Económico,Positivo,0.8,Subida histórica banca.
+2005-12-31,Cierre optimista del ciclo,Económico,Positivo,0.6,Máximos bursátiles.
