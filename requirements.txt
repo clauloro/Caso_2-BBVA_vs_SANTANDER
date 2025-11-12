@@ -1,7 +1,35 @@
+# Librerías base
 streamlit
 pandas
 numpy
+matplotlib
 plotly
+seaborn
+
+# Series temporales y análisis financiero
 yfinance
+scipy
+statsmodels
+
+# Machine Learning y Deep Learning
 scikit-learn
 tensorflow
+keras
+
+# Fechas y utilidades
+datetime
+pytz
+dateparser
+
+# Descarga y lectura de datos
+requests
+beautifulsoup4
+lxml
+
+# Soporte de archivos y paths
+pathlib
+os-sys
+
+# Otros útiles
+tqdm
+joblib
