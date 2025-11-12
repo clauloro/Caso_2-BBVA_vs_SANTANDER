@@ -1,0 +1,2 @@
+Ticker,Model,window,units,batch,lr,best_epoch,Test_RMSE,Test_MAE
+BBVA,LSTM,30,128,32,0.0005,76,0.0109919586588227,0.0077092545107007

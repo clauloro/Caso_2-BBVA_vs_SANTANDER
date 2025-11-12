@@ -1,0 +1,4 @@
+window,units,batch,lr,Ticker,Model,best_epoch,Test_MSE,Test_RMSE,Test_MAE,loss_png,pred_png
+10,128,64,0.001,SAN,LSTM,2,0.00011035508214263245,0.010505002719782249,0.007528090849518776,..\results\model_reports\SAN\LSTM\LSTM_Top1_w10_u128_b64_lr0.001_loss.png,..\results\model_reports\SAN\LSTM\LSTM_Top1_w10_u128_b64_lr0.001_pred.png
+20,128,32,0.0005,SAN,LSTM,44,7.877258030930534e-05,0.008875391839761517,0.007015883922576904,..\results\model_reports\SAN\LSTM\LSTM_Top2_w20_u128_b32_lr0.0005_loss.png,..\results\model_reports\SAN\LSTM\LSTM_Top2_w20_u128_b32_lr0.0005_pred.png
+30,128,32,0.0005,SAN,LSTM,57,6.196937465574592e-05,0.007872062922496613,0.005636413116008043,..\results\model_reports\SAN\LSTM\LSTM_Top3_w30_u128_b32_lr0.0005_loss.png,..\results\model_reports\SAN\LSTM\LSTM_Top3_w30_u128_b32_lr0.0005_pred.png

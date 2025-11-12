@@ -1,0 +1,11 @@
+{
+  "Ticker": "BBVA",
+  "Model": "RNN",
+  "window": 30,
+  "units": 64,
+  "batch": 32,
+  "lr": 0.001,
+  "best_epoch": 40,
+  "Test_RMSE": 0.0125632889016773,
+  "Test_MAE": 0.0089140878990292
+}

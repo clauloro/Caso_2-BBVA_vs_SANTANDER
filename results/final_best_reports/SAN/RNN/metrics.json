@@ -1,0 +1,11 @@
+{
+  "Ticker": "SAN",
+  "Model": "RNN",
+  "window": 10,
+  "units": 64,
+  "batch": 32,
+  "lr": 0.001,
+  "best_epoch": 40,
+  "Test_RMSE": 0.0093201368712859,
+  "Test_MAE": 0.0066718547604978
+}

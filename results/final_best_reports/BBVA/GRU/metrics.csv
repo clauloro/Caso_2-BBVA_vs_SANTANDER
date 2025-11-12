@@ -1,0 +1,2 @@
+Ticker,Model,window,units,batch,lr,best_epoch,Test_RMSE,Test_MAE
+BBVA,GRU,10,128,64,0.001,26,0.0096729335054511,0.006689915433526

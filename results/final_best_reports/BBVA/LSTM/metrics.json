@@ -1,0 +1,11 @@
+{
+  "Ticker": "BBVA",
+  "Model": "LSTM",
+  "window": 30,
+  "units": 128,
+  "batch": 32,
+  "lr": 0.0005,
+  "best_epoch": 76,
+  "Test_RMSE": 0.0109919586588227,
+  "Test_MAE": 0.0077092545107007
+}

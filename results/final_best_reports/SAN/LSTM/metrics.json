@@ -1,0 +1,11 @@
+{
+  "Ticker": "SAN",
+  "Model": "LSTM",
+  "window": 30,
+  "units": 128,
+  "batch": 32,
+  "lr": 0.0005,
+  "best_epoch": 57,
+  "Test_RMSE": 0.0078720629224966,
+  "Test_MAE": 0.005636413116008
+}

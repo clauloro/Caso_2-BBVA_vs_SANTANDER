@@ -1,0 +1,2 @@
+Ticker,Model,window,units,batch,lr,best_epoch,Test_RMSE,Test_MAE
+BBVA,RNN,30,64,32,0.001,40,0.0125632889016773,0.0089140878990292

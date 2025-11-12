@@ -1,0 +1,4 @@
+window,units,batch,lr,Ticker,Model,best_epoch,Test_MSE,Test_RMSE,Test_MAE,loss_png,pred_png
+30,64,64,0.0005,SAN,GRU,14,6.465410115197301e-05,0.008040777397240456,0.0060414280742406845,..\results\model_reports\SAN\GRU\GRU_Top1_w30_u64_b64_lr0.0005_loss.png,..\results\model_reports\SAN\GRU\GRU_Top1_w30_u64_b64_lr0.0005_pred.png
+10,32,32,0.0005,SAN,GRU,120,6.61218145978637e-05,0.008131532118725457,0.005933573003858328,..\results\model_reports\SAN\GRU\GRU_Top2_w10_u32_b32_lr0.0005_loss.png,..\results\model_reports\SAN\GRU\GRU_Top2_w10_u32_b32_lr0.0005_pred.png
+30,128,32,0.001,SAN,GRU,12,6.464257603511214e-05,0.008040060698471881,0.005782746709883213,..\results\model_reports\SAN\GRU\GRU_Top3_w30_u128_b32_lr0.001_loss.png,..\results\model_reports\SAN\GRU\GRU_Top3_w30_u128_b32_lr0.001_pred.png

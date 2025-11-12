@@ -1,0 +1,2 @@
+Ticker,Model,window,units,batch,lr,best_epoch,Test_RMSE,Test_MAE
+SAN,LSTM,30,128,32,0.0005,57,0.0078720629224966,0.005636413116008

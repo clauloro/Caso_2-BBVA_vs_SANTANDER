@@ -1,0 +1,4 @@
+Ticker,Model,window,units,batch,lr,best_epoch,Test_MSE,Test_RMSE,Test_MAE,loss_png,pred_png
+SAN,RNN,10,64,32,0.001,40,8.686495129950345e-05,0.009320136871285929,0.0066718547604978085,..\results\model_reports\SAN\RNN\RNN_Top1_w10_u64_b32_lr0.001_loss.png,..\results\model_reports\SAN\RNN\RNN_Top1_w10_u64_b32_lr0.001_pred.png
+SAN,RNN,10,64,64,0.001,40,0.00012980058090761304,0.011393005788974788,0.007758192252367735,..\results\model_reports\SAN\RNN\RNN_Top2_w10_u64_b64_lr0.001_loss.png,..\results\model_reports\SAN\RNN\RNN_Top2_w10_u64_b64_lr0.001_pred.png
+SAN,RNN,10,32,32,0.001,21,0.0001609576866030693,0.012686910049459219,0.010043244808912277,..\results\model_reports\SAN\RNN\RNN_Top3_w10_u32_b32_lr0.001_loss.png,..\results\model_reports\SAN\RNN\RNN_Top3_w10_u32_b32_lr0.001_pred.png

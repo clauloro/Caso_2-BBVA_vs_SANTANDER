@@ -1,0 +1,7 @@
+Ticker,Modelo,Ventana,Unidades,Batch,LR,Épocas_efectivas,RMSE_test,MAE_test,Loss_png,Pred_png
+BBVA,GRU,10,128,64,0.001,26,0.0096729335054511,0.006689915433526,..\results\model_reports\figs\BBVA_GRU_loss.png,..\results\model_reports\figs\BBVA_GRU_pred.png
+BBVA,LSTM,30,128,32,0.0005,76,0.0109919586588227,0.0077092545107007,..\results\model_reports\figs\BBVA_LSTM_loss.png,..\results\model_reports\figs\BBVA_LSTM_pred.png
+BBVA,RNN,30,64,32,0.001,40,0.0125632889016773,0.0089140878990292,..\results\model_reports\figs\BBVA_RNN_loss.png,..\results\model_reports\figs\BBVA_RNN_pred.png
+SAN,GRU,30,128,32,0.001,12,0.0080400606984718,0.0057827467098832,..\results\model_reports\figs\SAN_GRU_loss.png,..\results\model_reports\figs\SAN_GRU_pred.png
+SAN,LSTM,30,128,32,0.0005,57,0.0078720629224966,0.005636413116008,..\results\model_reports\figs\SAN_LSTM_loss.png,..\results\model_reports\figs\SAN_LSTM_pred.png
+SAN,RNN,10,64,32,0.001,40,0.0093201368712859,0.0066718547604978,..\results\model_reports\figs\SAN_RNN_loss.png,..\results\model_reports\figs\SAN_RNN_pred.png

@@ -1,0 +1,4 @@
+window,units,batch,lr,Ticker,Model,best_epoch,Test_MSE,Test_RMSE,Test_MAE,loss_png,pred_png
+30,128,32,0.0005,BBVA,LSTM,76,0.00012082315515726805,0.010991958658822732,0.007709254510700703,..\results\model_reports\BBVA\LSTM\LSTM_Top1_w30_u128_b32_lr0.0005_loss.png,..\results\model_reports\BBVA\LSTM\LSTM_Top1_w30_u128_b32_lr0.0005_pred.png
+20,128,32,0.0005,BBVA,LSTM,6,0.0002062145504169166,0.014360172367242553,0.01030455157160759,..\results\model_reports\BBVA\LSTM\LSTM_Top2_w20_u128_b32_lr0.0005_loss.png,..\results\model_reports\BBVA\LSTM\LSTM_Top2_w20_u128_b32_lr0.0005_pred.png
+30,64,32,0.0005,BBVA,LSTM,1,0.0030101086013019085,0.05486445662997045,0.038464244455099106,..\results\model_reports\BBVA\LSTM\LSTM_Top3_w30_u64_b32_lr0.0005_loss.png,..\results\model_reports\BBVA\LSTM\LSTM_Top3_w30_u64_b32_lr0.0005_pred.png

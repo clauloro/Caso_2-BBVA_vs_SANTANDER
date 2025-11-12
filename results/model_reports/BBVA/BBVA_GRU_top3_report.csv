@@ -1,0 +1,4 @@
+window,units,batch,lr,Ticker,Model,best_epoch,Test_MSE,Test_RMSE,Test_MAE,loss_png,pred_png
+10,64,64,0.0005,BBVA,GRU,66,9.528650116408244e-05,0.009761480480136323,0.006708160508424044,..\results\model_reports\BBVA\GRU\GRU_Top1_w10_u64_b64_lr0.0005_loss.png,..\results\model_reports\BBVA\GRU\GRU_Top1_w10_u64_b64_lr0.0005_pred.png
+10,128,64,0.001,BBVA,GRU,26,9.356564260087907e-05,0.009672933505451129,0.006689915433526039,..\results\model_reports\BBVA\GRU\GRU_Top2_w10_u128_b64_lr0.001_loss.png,..\results\model_reports\BBVA\GRU\GRU_Top2_w10_u128_b64_lr0.001_pred.png
+10,32,32,0.0005,BBVA,GRU,23,0.0001330121885985136,0.011533091025328535,0.008068632334470749,..\results\model_reports\BBVA\GRU\GRU_Top3_w10_u32_b32_lr0.0005_loss.png,..\results\model_reports\BBVA\GRU\GRU_Top3_w10_u32_b32_lr0.0005_pred.png

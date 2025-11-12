@@ -1,0 +1,11 @@
+{
+  "Ticker": "BBVA",
+  "Model": "GRU",
+  "window": 10,
+  "units": 128,
+  "batch": 64,
+  "lr": 0.001,
+  "best_epoch": 26,
+  "Test_RMSE": 0.0096729335054511,
+  "Test_MAE": 0.006689915433526
+}
